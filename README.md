@@ -40,7 +40,7 @@ Your contributions can help enhance the functionality and usability of the Dynam
 
 ## License
 
-This code repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code in this repository for both commercial and non-commercial purposes.
+This code repository is licensed under the [GPL-3.0 license](LICENSE). You are free to use, modify, and distribute the code in this repository for both commercial and non-commercial purposes.
 
 
 
